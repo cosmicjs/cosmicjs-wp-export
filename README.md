@@ -3,7 +3,7 @@ This plugin helps you export the posts from your WordPress site into a JSON file
 
 ## To export
 1. Download this repo.
-2. Go to the plugins section in the backend of your WordPress install. 
+2. Go to the Plugins section in the backend of your WordPress install. 
 3. Click Add new.
 4. Click Upload Plugin.
 5. Click choose file.  Chosse the cosmicjs-wp-export.zip file included in this repo.
