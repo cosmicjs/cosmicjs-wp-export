@@ -170,5 +170,5 @@ function cosmicjs_export_output() {
 add_action( 'admin_menu', 'cosmicjs_export' );
 
 function cosmicjs_export() {
-	add_options_page( 'Cosmic JS Export', 'Cosmic JS Export', 'manage_options', 'Cosmic-JS-export', 'cosmicjs_export_output' );
+	add_menu_page( 'Cosmic JS Export', 'Cosmic JS Export',  'manage_options', 'Cosmic-JS-export', 'cosmicjs_export_output' );
 }
