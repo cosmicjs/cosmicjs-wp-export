@@ -1,7 +1,6 @@
 [![Cosmic JS Logo](https://cosmicjs.com/images/marketing/logo-w-brand.jpg)](https://cosmicjs.com/)
 ##Cosmic JS WordPress Export Plugin
-This plugin helps you export the posts from your WordPress site into a JSON file.  This file can then be uploaded into Cosmic JS.
-
+This plugin helps you export the content and files from your WordPress site into a JSON file.  This file can then be uploaded into Cosmic JS.
 ## To export
 1. Download this repo.
 2. Go to the Plugins section in the backend of your WordPress install. 
