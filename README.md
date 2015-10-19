@@ -2,11 +2,11 @@
 ##Cosmic JS WordPress Export Plugin
 This plugin helps you export the content and files from your WordPress site into a JSON file.  This file can then be uploaded into Cosmic JS.
 ## To export
-1. Download this repo.
+1. Download the ```cosmicjs-wp-export.zip``` file in this repo.
 2. Go to the Plugins section in the backend of your WordPress install. 
 3. Click Add new.
 4. Click Upload Plugin.
-5. Click choose file.  Choose the cosmicjs-wp-export.zip file included in this repo.
+5. Click choose file.  Choose the downloaded ```cosmicjs-wp-export.zip``` file included in this repo.
 6. Activate plugin.
 7. Find a new link in under Settings in your WP sidebar nav titled "Cosmic JS Export".  Click it.
 8. Select the post types that you would like to export.
